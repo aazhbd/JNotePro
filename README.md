@@ -1,0 +1,2 @@
+# JNotePro
+Note taking application
